@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="villes">
+        <item>Meknes</item>
+        <item>Rabat</item>
+        <item>Casablanca</item>
+        <item>Fes</item>
+        <item>Merakech</item>
+        <item>Agadir</item>
+        <item>ElJadida</item>
+    </string-array>
+</resources>
